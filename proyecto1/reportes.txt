@@ -1,0 +1,48 @@
+========== REPORTES DEL SISTEMA ==========
+
+1) LISTA COMPLETA DE ESTUDIANTES (3):
+   - Carne: 20240001 | Nombre: Ana Perez | Correo: ana.perez@institucion.ac.cr | Carrera: Ingenieria
+   - Carne: 20240002 | Nombre: Luis Gomez | Correo: luis.gomez@institucion.ac.cr | Carrera: Computacion
+   - Carne: 20240003 | Nombre: Maria Ruiz | Correo: maria.ruiz@institucion.ac.cr | Carrera: Electronica
+
+2) RECORRIDO ABB EN INORDEN (ordenado por carne):
+   - Carne: 20240001 | Nombre: Ana Perez | Correo: ana.perez@institucion.ac.cr | Carrera: Ingenieria
+   - Carne: 20240002 | Nombre: Luis Gomez | Correo: luis.gomez@institucion.ac.cr | Carrera: Computacion
+   - Carne: 20240003 | Nombre: Maria Ruiz | Correo: maria.ruiz@institucion.ac.cr | Carrera: Electronica
+
+3) ESTRUCTURA JERARQUICA COMPLETA:
+- [Curso] Estructuras de Datos (Curso base de ejemplo)
+  - [Unidad] Unidad 1: Fundamentos
+    - [Tema] Tema 1.1: Tipos abstractos
+      - [Recurso] Recurso: PDF de teoria (PDF introductorio)
+      - [Recurso] Recurso: Video introductorio (Video inicial)
+    - [Tema] Tema 1.2: Complejidad
+      - [Actividad] Actividad: Quiz (Quiz semanal)
+  - [Unidad] Unidad 2: Estructuras lineales
+    - [Tema] Tema 2.1: Listas
+    - [Tema] Tema 2.2: Pilas
+    - [Tema] Tema 2.3: Colas
+
+4) HISTORIAL DE NAVEGACION (carne 20240001):
+   - [2026-10-11 11:47:50] Tema 1.2: Complejidad | visita
+   - [2026-10-11 11:47:50] Recurso: PDF de teoria | visita
+
+5) SOLICITUDES PENDIENTES (2):
+   - #1 [ALTA] carne 20240001 | reporte de error en material | El PDF no abre en el tema 1.1
+   - #2 [NORMAL] carne 20240002 | consulta academica | Duda sobre complejidad
+
+6) CANTIDAD DE NODOS DEL ARBOL GENERICO: 11
+7) ALTURA DEL ARBOL GENERICO: 3
+8) CANTIDAD DE ESTUDIANTES REGISTRADOS: 3
+9) MENOR Y MAYOR CARNE:
+   Menor: Carne: 20240001 | Nombre: Ana Perez | Correo: ana.perez@institucion.ac.cr | Carrera: Ingenieria
+   Mayor: Carne: 20240003 | Nombre: Maria Ruiz | Correo: maria.ruiz@institucion.ac.cr | Carrera: Electronica
+10) RECURSOS HOJA DEL ARBOL:
+   - [Recurso] Recurso: PDF de teoria
+   - [Recurso] Recurso: Video introductorio
+   - [Actividad] Actividad: Quiz
+   - [Tema] Tema 2.1: Listas
+   - [Tema] Tema 2.2: Pilas
+   - [Tema] Tema 2.3: Colas
+
+==========================================
